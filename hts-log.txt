@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Jan 2025 12:19:11 at http://www.crazygames.com/games/vex +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.crazygames.com/games/vex -O1 "C:\My Web Sites\Vex" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:19:13	Error: 	"Not Found" (404) at link https://7rx80265.ibosscloud.com/syncCustomBranding/block_page/123446/10664/GET (from https://7rx80265.ibosscloud.com/syncCustomBranding/block_page/123446/10664/10664-block_page.html?fn=RedCreek-DefaultIP-Students&fp=541&ip=10.14.20.115&ibip=iboss-nwk5.edutech.org&ipm=10.90.3.51&ldu=1&user=aaron.welch%40redcreekcsd.org&bu=www.crazygames.com/games/vex&bc=Games)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 8 links scanned, 6 files written (87959 bytes overall) [92317 bytes received at 46158 bytes/sec], 4.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
